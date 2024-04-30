@@ -1,0 +1,297 @@
+{
+    "title":"Paseo por el casco viejo de Aranjuez",
+    "id_test":"",
+    "description": "Un paseo de una hora por los monumentos más representativos de Aranjuez",
+    "author": "Abdel Kbir  Benali",
+    "img_feature":{
+        "url": "./img/logo-tandem.jpg",
+        "alt": "Vista del logo de tandem aranjuez"
+    },
+    "questions": [[
+        {
+        "id":1,
+        "question":"¿Qué tipo de teatro es el Teatro Real Carlos III?",
+        "answers":{
+            "a": "Un teatro al aire libre",
+            "b": "Un teatro romano",
+            "c": "Un teatro cubierto",
+            "d": "Un anfiteatro"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+
+        },
+        "img_question":{
+            "url": "./img/imagen-q1-quiztandem.png",
+            "alt": "teatro carlos iii de aranjuez",
+            "desc": "vista de la fachada del teatro carlos iii de aranjuez"
+        },
+        "hint": "El Teatro Real Carlos III es un teatro de corte. Por lo que tiene que ser muy lujoso y estar decorado con obras de arte de gran valor. Pero cuando llovía, ¿cómo se protegía esa decoración lujosa con obras de arte de gran valor?.",
+        "curiosity": "El Teatro Real Carlos III es un teatro de corte. Los teatros de corte eran teatros privados que pertenecían a la realeza o a la nobleza. Se utilizaban para representar obras de teatro, óperas y ballets para el entretenimiento de la corte. Los teatros de corte solían ser muy lujosos y estaban decorados con obras de arte de gran valor."
+
+            
+        },
+        {
+        "id":2,
+        "question":"¿Cuál era el propósito original del Mercado de Abastos?",
+        "answers":{
+            "a": "Centralizar la venta de productos frescos",
+            "b": "Albergar oficinas gubernamentales",
+            "c": "Ser un espacio de eventos culturales",
+            "d": "Todas las anteriores"
+        },
+        "results":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+    
+        },
+        "img_question":{
+            "url": "./img/imagen-q2-quiztandem.png",
+            "alt": "mercado de abastos",
+            "desc": "el antes del mercado de abastos"
+        },
+        "hint": "El nombre MERCADO DE ABASTOS describe de manera clara y precisa la naturaleza y función del lugar. Es un nombre informativo y directo que no deja lugar a dudas sobre el tipo de actividad comercial que se desarrolla allí.",
+        "curiosity": "El término ABASTO proviene del verbo ABASTECER, que significa PROVEER DE LO NECESARIO. En la Edad Media, era común utilizar la palabra ABASTO para referirse a los lugares donde se vendían víveres y otros productos básicos."
+    
+                
+        },
+        {
+        "id":3,
+        "question":"¿En qué año se remodeló el interior del Mercado de Abastos, para modernizar las instalaciones?",
+        "answers":{
+            "a": "1920",
+            "b": "1940",
+            "c": "1980",
+            "d": "2020"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": true,
+            "d": false
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q3-quiztandem.png",
+            "alt": "interior del mercado de abastos",
+            "desc": "el interior actual del mercado de abastos"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+        {
+        "id":4,
+        "question":"¿Cuál era la función original de la Casa del Gobernador?",
+        "answers":{
+            "a": "Ser un museo de arte",
+            "b": "Servir como residencia oficial del Gobernador",
+            "c": "Albergar la Escuela de Capataces Forestales",
+            "d": "Todas las anteriores"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q4-quiztandem.png",
+            "alt": "casa del gobernador",
+            "desc": "el antes de la casa del gobernador"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+        {
+        "id":5,
+        "question":"¿Qué ofrece la Casa del Gobernador al público en la actualidad?",
+        "answers":{
+            "a": "Visitas guiadas y eventos culturales ",
+            "b": "Exposiciones de arte contemporáneo",
+            "c": "Cursos y talleres educativos",
+            "d": "Todas las anteriores"
+        },
+        "results":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q5-quiztandem.png",
+            "alt": "actual casa del gobernador",
+            "desc": "vista de la fachada actual de la casa del gobernador"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+        {
+        "id":6,
+        "question":"¿Qué es la Casa del Gobernador además de la sede del Ayuntamiento? ",
+        "answers":{
+            "a": "Un espacio comercial con tiendas y restaurantes",
+            "b": " Un edificio histórico y emblemático de Aranjuez",
+            "c": "Un lugar de almacenamiento para archivos y documentos",
+            "d": "Todas las anteriores"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q6-quiztandem.png",
+            "alt": "edificio de la casa del gobernador",
+            "desc": "vista de la fachada del edificio de la casa del gobernador"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+        {
+        "id":7,
+        "question":"¿Quién fue la persona que originalmente utilizó el edificio antes de que se convirtiera en el Centro Cultural Isabel de Farnesio? ",
+        "answers":{
+            "a": "Bárbara de Braganza",
+            "b": "Isabel de Farnesio",
+            "c": "Fernando VI",
+            "d": "Carlos III"
+        },
+        "results":{
+            "a": true,
+            "b": false,
+            "c": false,
+            "d": false
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q7-quiztandem.png",
+            "alt": "centro cultural isabel de farnesio",
+            "desc": "vista de la fachada actual del centro cultural isabel de farnesio"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+        {
+        "id":8,
+        "question":"¿Dónde se encuentra ubicada la Fuente de la Mariblanca?",
+        "answers":{
+            "a": "Plaza de la Constitución",
+            "b": "Plaza de San Antonio",
+            "c": "Plaza de Parejas",
+            "d": "Plaza de Toros"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q8-quiztandem.png",
+            "alt": "fuente de la mariblanca",
+            "desc": "vista actual de la fuente de la mariblanca"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+        {
+        "id":9,
+        "question":"¿Cuál fue el nombre completo de Isabel II?",
+        "answers":{
+            "a": "Isabel Cristina María de Borbón ",
+            "b": "Isabel Francisca María Teresa de Borbón",
+            "c": "Isabel Antonia María de Borbón",
+            "d": "Isabel Ana María de Borbón"
+        },
+        "results":{
+            "a": false,
+            "b": true,
+            "c": false,
+            "d": false
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q9-quiztandem.png",
+            "alt": "isabel ii",
+            "desc": "retrato de isabel ii de princesa"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+        {
+        "id":10,
+        "question":"¿Qué eventos culturales suelen celebrarse en la Plaza de San Antonio?",
+        "answers":{
+            "a": "Conciertos al aire libre",
+            "b": "Exposiciones de arte",
+            "c": "Representaciones teatrales",
+            "d": "Todas las anteriores"
+        },
+        "results":{
+            "a": false,
+            "b": false,
+            "c": false,
+            "d": true
+        
+        },
+        "img_question":{
+            "url": "./img/imagen-q10-quiztandem.png",
+            "alt": "plaza de san antonio",
+            "desc": "vista actual de la plaza de san antonio"
+        },
+        "hint": "",
+        "curiosity": ""
+        
+                    
+        },
+
+
+
+    ]]
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
